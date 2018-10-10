@@ -4,6 +4,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h>Addition</h>
 <form action="Addition">
 <input type="text" name="no1">
 <input type="button" value="+">
